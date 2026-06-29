@@ -1,6 +1,8 @@
+
 <div align="center">
 
 #  anime-for-coders
+<img width="720" height="720" alt="portada" src="https://github.com/user-attachments/assets/7d016487-0d37-4095-9c89-baf37baf71e1" />
 
 ### Una base de datos abierta y colaborativa que conecta el mundo del anime con la ingeniería de software, DevOps, arquitectura de sistemas y el día a día del desarrollo.
 
