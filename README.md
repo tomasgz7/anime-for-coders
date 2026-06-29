@@ -1,9 +1,8 @@
 
 <div align="center">
-
-#  anime-for-coders
 <img width="720" height="720" alt="portada" src="https://github.com/user-attachments/assets/7d016487-0d37-4095-9c89-baf37baf71e1" />
 
+#  anime-for-coders
 ### Una base de datos abierta y colaborativa que conecta el mundo del anime con la ingeniería de software, DevOps, arquitectura de sistemas y el día a día del desarrollo.
 
 *Esto no es el típico top de 'animes para ver mientras compila el código'. La idea es ir un paso más allá y armar una guía hecha por y para la comunidad, donde cada título sea una analogía real de los conceptos, dolores y situaciones que vivimos en el día a día programando o lidiando con producción.*
